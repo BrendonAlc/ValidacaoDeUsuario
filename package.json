@@ -1,0 +1,15 @@
+{
+  "name": "testeqadedados",
+  "version": "1.0.0",
+  "description": "TesteDeDados",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Brendon Alcantara",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.1.1",
+    "mochawesome": "^7.1.3"
+  }
+}
