@@ -1,5 +1,5 @@
 # Passo a Passo para iniciar o projeto de teste.
-Teste com Cypress, para tornar automatizado a testagem de validação mais rápida para entrega do software.
+Teste com Cypress, para tornar automatizado a testagem validação de mensagens para campos obrigatórios, validação de quantidade de caracteres e mensagem de e-mail inválido
 <br></br>
 Clonar projeto https://github.com/BrendonAlc/ValidacaoDeUsuario.git.
 <br></br>
